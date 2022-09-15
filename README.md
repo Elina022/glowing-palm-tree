@@ -1,5 +1,5 @@
 # glowing-palm-tree
 
-its important file for me
+###Add file to glowing-palm-tree
 
-i need to learn github.
+print "glowing-palm-tree"
